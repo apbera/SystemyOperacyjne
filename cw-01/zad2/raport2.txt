@@ -1,0 +1,59 @@
+Przeszukanie katalogów o różnych poziomach zagłębień i plików:
+
+Mały
+Real time: 0.020871 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Średni
+Real time: 0.092181 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Duży
+Real time: 2.142845 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+
+Przeszukanie i zapisanie bloku:
+
+Mały
+Real time: 0.020952 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Średni
+Real time: 0.064063 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Duży
+Real time: 1.885606 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+
+Przeszukanie, zapisanie i usunięcie bloku:
+
+Mały
+Real time: 0.028432 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Sredni
+Real time: 0.070953 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Duży
+Real time: 1.783840 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+
+Przeszukanie, zapisanie, usunięcie, zapisanie, usunięcie:
+
+Mały
+Real time: 0.003855 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Średni
+Real time: 0.040261 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Duży
+Real time: 1.084803 s 
+User time: 0.000000 s 
+System time: 0.000000 s

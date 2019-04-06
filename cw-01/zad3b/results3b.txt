@@ -1,0 +1,125 @@
+Optymalizacja "O0"
+
+---------Static Tests---------
+Small Test
+Real time: 0.009002 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.071571 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 2.515151 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+---------Shared Tests---------
+Small Test
+Real time: 0.057332 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.242220 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 2.392982 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+---------Dynamic Tests---------
+Small Test
+Real time: 0.007681 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.043048 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 2.183288 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+
+Optymalizacja "O3"
+
+---------Static Tests---------
+Small Test
+Real time: 0.008129 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.080372 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 3.235788 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+---------Shared Tests---------
+Small Test
+Real time: 0.007510 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.113720 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 2.622171 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+---------Dynamic Tests---------
+Small Test
+Real time: 0.005966 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.029159 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 2.726000 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+
+Optymalizacja "Os"
+
+---------Static Tests---------
+Small Test
+Real time: 0.007688 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.031766 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 2.665602 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+---------Shared Tests---------
+Small Test
+Real time: 0.008588 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.055058 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 2.094036 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+---------Dynamic Tests---------
+Small Test
+Real time: 0.008648 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.031742 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 2.302277 s 
+User time: 0.000000 s 
+System time: 0.000000 s

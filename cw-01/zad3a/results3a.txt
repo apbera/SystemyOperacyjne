@@ -1,0 +1,42 @@
+---------Static Tests---------
+Small Test
+Real time: 0.007433 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.110288 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 3.030513 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+---------Shared Tests---------
+Small Test
+Real time: 0.086450 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.608911 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 3.686244 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+---------Dynamic Tests---------
+Small Test
+Real time: 0.007220 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Medium Test
+Real time: 0.032068 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+Big Test
+Real time: 2.226787 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+
+Wyniki pokazują, że biblioteka dynamiczna działa najszybciej,
+a biblioteka współdzielona najwolniej.
