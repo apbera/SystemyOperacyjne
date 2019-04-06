@@ -1,0 +1,196 @@
+COPY_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 1
+Real time: 0.002636 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+COPY_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 1
+Real time: 0.000233 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+SORT_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 1
+Real time: 0.775805 s 
+User time: 0.230000 s 
+System time: 0.480000 s
+SORT_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 1
+Real time: 0.298720 s 
+User time: 0.130000 s 
+System time: 0.150000 s
+COPY_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 1
+Real time: 0.009276 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+COPY_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 1
+Real time: 0.000360 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+SORT_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 1
+Real time: 11.050786 s 
+User time: 2.910000 s 
+System time: 7.970000 s
+SORT_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 1
+Real time: 4.602327 s 
+User time: 1.890000 s 
+System time: 2.650000 s
+COPY_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 4
+Real time: 0.002159 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+COPY_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 4
+Real time: 0.000244 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+SORT_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 4
+Real time: 0.695413 s 
+User time: 0.220000 s 
+System time: 0.470000 s
+SORT_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 4
+Real time: 0.295968 s 
+User time: 0.100000 s 
+System time: 0.190000 s
+COPY_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 4
+Real time: 0.009331 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+COPY_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 4
+Real time: 0.000455 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+SORT_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 4
+Real time: 11.448470 s 
+User time: 3.600000 s 
+System time: 7.700000 s
+SORT_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 4
+Real time: 4.615234 s 
+User time: 1.890000 s 
+System time: 2.680000 s
+COPY_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 512
+Real time: 0.002703 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+COPY_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 512
+Real time: 0.001150 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+SORT_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 512
+Real time: 0.734481 s 
+User time: 0.210000 s 
+System time: 0.520000 s
+SORT_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 512
+Real time: 0.379100 s 
+User time: 0.140000 s 
+System time: 0.240000 s
+COPY_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 512
+Real time: 0.012662 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+COPY_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 512
+Real time: 0.005836 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+SORT_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 512
+Real time: 11.856072 s 
+User time: 3.160000 s 
+System time: 8.300000 s
+SORT_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 512
+Real time: 6.184865 s 
+User time: 2.150000 s 
+System time: 3.910000 s
+COPY_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 1024
+Real time: 0.003209 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+COPY_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 1024
+Real time: 0.002451 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+SORT_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 1024
+Real time: 0.739219 s 
+User time: 0.220000 s 
+System time: 0.520000 s
+SORT_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 1024
+Real time: 0.457725 s 
+User time: 0.150000 s 
+System time: 0.300000 s
+COPY_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 1024
+Real time: 0.017606 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+COPY_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 1024
+Real time: 0.075692 s 
+User time: 0.020000 s 
+System time: 0.050000 s
+SORT_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 1024
+Real time: 12.266134 s 
+User time: 3.460000 s 
+System time: 8.470000 s
+SORT_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 1024
+Real time: 7.215772 s 
+User time: 2.350000 s 
+System time: 4.710000 s
+COPY_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 4096
+Real time: 0.003184 s 
+User time: 0.000000 s 
+System time: 0.000000 s
+COPY_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 4096
+Real time: 0.018239 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+SORT_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 4096
+Real time: 0.723471 s 
+User time: 0.230000 s 
+System time: 0.490000 s
+SORT_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 4096
+Real time: 0.966350 s 
+User time: 0.230000 s 
+System time: 0.670000 s
+COPY_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 4096
+Real time: 0.028997 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+COPY_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 4096
+Real time: 0.071943 s 
+User time: 0.000000 s 
+System time: 0.030000 s
+SORT_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 4096
+Real time: 13.195807 s 
+User time: 3.630000 s 
+System time: 9.180000 s
+SORT_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 4096
+Real time: 16.379798 s 
+User time: 3.550000 s 
+System time: 12.400000 s
+COPY_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 8192
+Real time: 0.016020 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+COPY_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 8192
+Real time: 0.021095 s 
+User time: 0.000000 s 
+System time: 0.010000 s
+SORT_SYS: Liczba rekordow = 1000, Rozmiar rekordu = 8192
+Real time: 0.760384 s 
+User time: 0.220000 s 
+System time: 0.510000 s
+SORT_LIB: Liczba rekordow = 1000, Rozmiar rekordu = 8192
+Real time: 0.921265 s 
+User time: 0.240000 s 
+System time: 0.660000 s
+COPY_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 8192
+Real time: 0.070368 s 
+User time: 0.010000 s 
+System time: 0.030000 s
+COPY_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 8192
+Real time: 0.100812 s 
+User time: 0.000000 s 
+System time: 0.030000 s
+SORT_SYS: Liczba rekordow = 4000, Rozmiar rekordu = 8192
+Real time: 12.974193 s 
+User time: 3.570000 s 
+System time: 9.000000 s
+SORT_LIB: Liczba rekordow = 4000, Rozmiar rekordu = 8192
+Real time: 17.513210 s 
+User time: 3.990000 s 
+System time: 12.650000 s
+
+Wnioski:
+Dla małych ramiarów rekordów Sortowanie z funkcjami biblioteki C jest szybsze.
+Dla rozmiaru rekordu 4096 i większych już można zauważyć, że funkcje systemowe zaczynają sobie lepiej radzić (są szybsze).
